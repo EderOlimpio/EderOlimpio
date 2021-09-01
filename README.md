@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EderOlimpio
+- 👀 I’m a Technical Recruiter @ HubSpot
+- 🌱 I’m currently looking for Software Engineers to joing out team!
+- 📫 Please reach out on my LinkedIn: https://www.linkedin.com/in/edertbo/ 
