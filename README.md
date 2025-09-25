@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @EderOlimpio
-- 👀 Data Science / Data Analytics 
+- 👀 Data Analytics 
 - 📫 LinkedIn: https://www.linkedin.com/in/edertbo/ 
